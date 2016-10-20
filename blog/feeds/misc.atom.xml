@@ -1,7 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-09-02T12:00:00+08:00</updated><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-09-02T12:00:00+08:00</updated><entry><title>2016Fall 機械設計主題教學</title><link href="./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html</id><summary type="html">&lt;p&gt;知識管理與最佳化應用實驗室試圖利用計算機程式、網際內容管理、電腦輔助設計實習與協同產品設計實習等課程, 進行與機械設計相關的主題式教學, 其中包含強化創造力的教學、令學員熟習六種工程表達方式, 並且俱備融入協同設計所需要的四大面向知識與技能.&lt;/p&gt;
 
 
-&lt;p&gt;網誌 Category&lt;/p&gt;
-&lt;p&gt;網誌 Tags&lt;/p&gt;
-&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry></feed>
+&lt;h1&gt;機械設計主題教學&lt;/h1&gt;
+&lt;p&gt;創造力三元素, 機械設計的六種表達, 協同設計的四大面向.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;強化創造能力 - 自學力、程式力與想像力
+(Creative Competencies)&lt;/li&gt;
+&lt;li&gt;熟習六種表達  - 口語、文字、2D、3D、理論與實體表達
+(Six Presentation Methods)&lt;/li&gt;
+&lt;li&gt;融入協同設計 - 電腦、網路、軟硬體工具與協同專案
+(Collaborative Designs)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;2016 Fall CADP B 分組網頁:&lt;/p&gt;
+&lt;p&gt;&lt;a href='../g1'&gt;第1組&lt;/a&gt;:&lt;br /&gt;
+&lt;a href='../g1/40123252'&gt;40123252&lt;/a&gt; 
+&lt;a href='../g1/40223128'&gt;40223128&lt;/a&gt; 
+&lt;a href='../g1/40223130'&gt;40223130&lt;/a&gt; 
+&lt;a href='../g1/40223215'&gt;40223215&lt;/a&gt; 
+&lt;a href='../g1/40223233'&gt;40223233&lt;/a&gt; 
+&lt;br /&gt;
+&lt;a href='../g2'&gt;第2組&lt;/a&gt;:&lt;br /&gt;
+&lt;a href='../g2/40223205'&gt;40223205&lt;/a&gt; 
+&lt;a href='../g2/40223206'&gt;40223206&lt;/a&gt; 
+&lt;a href='../g2/40423225'&gt;40423225&lt;/a&gt; 
+&lt;a href='../g2/40423231'&gt;40423231&lt;/a&gt; 
+&lt;a href='../g2/40423240'&gt;40423240&lt;/a&gt; 
+&lt;a href='../g2/40423250'&gt;40423250&lt;/a&gt; 
+&lt;br /&gt;
+&lt;a href='../g3'&gt;第3組&lt;/a&gt;:&lt;br /&gt;
+&lt;a href='../g3/40423201'&gt;40423201&lt;/a&gt; 
+&lt;a href='../g3/40423202'&gt;40423202&lt;/a&gt; 
+&lt;a href='../g3/40423203'&gt;40423203&lt;/a&gt; 
+&lt;a href='../g3/40423211'&gt;40423211&lt;/a&gt; 
+&lt;a href='../g3/40439221'&gt;40439221&lt;/a&gt; 
+&lt;a href='../g3/42423223'&gt;42423223&lt;/a&gt; 
+&lt;br /&gt;
+&lt;a href='../g4'&gt;第4組&lt;/a&gt;:&lt;br /&gt;
+&lt;a href='../g4/40423204'&gt;40423204&lt;/a&gt; 
+&lt;a href='../g4/40423221'&gt;40423221&lt;/a&gt; 
+&lt;a href='../g4/40423228'&gt;40423228&lt;/a&gt; 
+&lt;a href='../g4/40423243'&gt;40423243&lt;/a&gt; 
+&lt;a href='../g4/40423253'&gt;40423253&lt;/a&gt; 
+&lt;a href='../g4/40423254'&gt;40423254&lt;/a&gt; 
+&lt;br /&gt;
+&lt;a href='../g5'&gt;第5組&lt;/a&gt;:&lt;br /&gt;
+&lt;a href='../g5/40423205'&gt;40423205&lt;/a&gt; 
+&lt;a href='../g5/40423227'&gt;40423227&lt;/a&gt; 
+&lt;a href='../g5/40423235'&gt;40423235&lt;/a&gt; 
+&lt;a href='../g5/40423236'&gt;40423236&lt;/a&gt; 
+&lt;a href='../g5/40423237'&gt;40423237&lt;/a&gt; 
+&lt;a href='../g5/40423238'&gt;40423238&lt;/a&gt; 
+&lt;br /&gt;
+&lt;a href='../g6'&gt;第6組&lt;/a&gt;:&lt;br /&gt;
+&lt;a href='../g6/40423206'&gt;40423206&lt;/a&gt; 
+&lt;a href='../g6/40423214'&gt;40423214&lt;/a&gt; 
+&lt;a href='../g6/40423216'&gt;40423216&lt;/a&gt; 
+&lt;a href='../g6/40423224'&gt;40423224&lt;/a&gt; 
+&lt;a href='../g6/40423226'&gt;40423226&lt;/a&gt; 
+&lt;a href='../g6/40423229'&gt;40423229&lt;/a&gt; 
+&lt;br /&gt;
+&lt;a href='../g7'&gt;第7組&lt;/a&gt;:&lt;br /&gt;
+&lt;a href='../g7/40423207'&gt;40423207&lt;/a&gt; 
+&lt;a href='../g7/40423210'&gt;40423210&lt;/a&gt; 
+&lt;a href='../g7/40423219'&gt;40423219&lt;/a&gt; 
+&lt;a href='../g7/40423220'&gt;40423220&lt;/a&gt; 
+&lt;a href='../g7/40423241'&gt;40423241&lt;/a&gt; 
+&lt;a href='../g7/40423246'&gt;40423246&lt;/a&gt; 
+&lt;br /&gt;
+&lt;a href='../g8'&gt;第8組&lt;/a&gt;:&lt;br /&gt;
+&lt;a href='../g8/40423208'&gt;40423208&lt;/a&gt; 
+&lt;a href='../g8/40423213'&gt;40423213&lt;/a&gt; 
+&lt;a href='../g8/40423232'&gt;40423232&lt;/a&gt; 
+&lt;a href='../g8/40423233'&gt;40423233&lt;/a&gt; 
+&lt;br /&gt;
+&lt;a href='../g9'&gt;第9組&lt;/a&gt;:&lt;br /&gt;
+&lt;a href='../g9/40423209'&gt;40423209&lt;/a&gt; 
+&lt;a href='../g9/40423212'&gt;40423212&lt;/a&gt; 
+&lt;a href='../g9/40423217'&gt;40423217&lt;/a&gt; 
+&lt;a href='../g9/40423218'&gt;40423218&lt;/a&gt; 
+&lt;a href='../g9/40423239'&gt;40423239&lt;/a&gt; 
+&lt;a href='../g9/40423255'&gt;40423255&lt;/a&gt; 
+&lt;br /&gt;
+&lt;a href='../g10'&gt;第10組&lt;/a&gt;:&lt;br /&gt;
+&lt;a href='../g10/40423222'&gt;40423222&lt;/a&gt; 
+&lt;a href='../g10/40423245'&gt;40423245&lt;/a&gt; 
+&lt;a href='../g10/40423248'&gt;40423248&lt;/a&gt; 
+&lt;a href='../g10/40423251'&gt;40423251&lt;/a&gt; 
+&lt;br /&gt;
+&lt;a href='../g11'&gt;第11組&lt;/a&gt;:&lt;br /&gt;
+&lt;a href='../g11/40423234'&gt;40423234&lt;/a&gt; 
+&lt;a href='../g11/40423242'&gt;40423242&lt;/a&gt; 
+&lt;a href='../g11/40423244'&gt;40423244&lt;/a&gt; 
+&lt;a href='../g11/40423247'&gt;40423247&lt;/a&gt; 
+&lt;a href='../g11/40423249'&gt;40423249&lt;/a&gt; 
+&lt;a href='../g11/40423252'&gt;40423252&lt;/a&gt; 
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;以下為分組資料處理程式:&lt;/p&gt;
+&lt;pre class="brush: python"&gt;
+content = open("2016fall_cadp_b_groups.txt").read()
+#print(content)
+result = content.splitlines()
+#print(result)
+gno = 1
+for i in range(len(result)):
+    #print(result[i])
+    group = result[i].split(":")
+    #列出組序
+    print("&amp;lt;a href='../g"+str(gno)+"'&amp;gt;第"+str(gno)+"組&amp;lt;/a&amp;gt;:&amp;lt;br /&amp;gt;")
+    #print("第"+str(gno)+"組:&amp;lt;br /&amp;gt;")
+    #取 group 第2成員, 用逗點隔開納入數列後, 利用[:-1]去掉最後空白
+    #print(group[1].split(",")[:-1])
+    gmember = group[1].split(",")[:-1]
+    for j in range(len(gmember)):
+        #print(gmember[j])
+        print("&amp;lt;a href='../g"+str(gno)+"/"+str(gmember[j])+"'&amp;gt;"+ \
+        str(gmember[j])+"&amp;lt;/a&amp;gt; ")
+    print("&amp;lt;br /&amp;gt;")
+    gno = gno + 1
+&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry></feed>
