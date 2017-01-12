@@ -25,13 +25,16 @@
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
-<v t="amd.20161004095719.1"><vh>封面投影片</vh>
+<v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20161115160936.1" a="E"><vh>快捷鍵</vh>
-<v t="leo.20161115160936.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20161115160936.1" a="E"><vh>URL</vh>
+<v t="leo.20161115160936.2"><vh>網頁連結</vh></v>
 </v>
-<v t="leo.20161115161038.1" a="E"><vh>第十週上課筆記</vh>
+<v t="leo.20170113063624.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20170113063624.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20161115161038.1"><vh>Onshape description </vh>
 <v t="leo.20161115161038.2" a="E"><vh>Onshape week02</vh>
 <v t="leo.20161115161038.3"><vh>網址</vh></v>
 </v>
@@ -204,20 +207,10 @@ print("hello")
 
 ### 虎科大機械設計工程系
 
-### 組長40423222課程簡報
+### G10組長40423222課程簡報
 
 &lt;small&gt;
-Created by [40423222](https://40423222.github.io/2016fallcadp_hw/blog/)
-&lt;/small&gt;
-
-[甲班電腦輔助設計實習課程網誌](blog/index.html)
-
-[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
-
-[Vimeo 上課影片](https://vimeo.com/user24079973/videos)
-
-[電腦輔助設計室電腦硬體](http://project.mde.tw/blog/yen-dian-nao-fu-zhu-she-ji-shi-dian-nao-pei-zhi.html)
-</t>
+Created by [40423222](https://40423222.github.io/2016fallcadp_hw/blog/)</t>
 <t tx="leo.20151212173315.1"></t>
 <t tx="leo.20151212173315.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -333,15 +326,15 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20161115160936.2"># 投影片快捷鍵
+<t tx="leo.20161115160936.2"># 網頁連結
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+[甲班電腦輔助設計實習課程網誌](blog/index.html)
 
+[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
+
+[Vimeo 上課影片](https://vimeo.com/user24079973/videos)
+
+[電腦輔助設計室電腦硬體](http://project.mde.tw/blog/yen-dian-nao-fu-zhu-she-ji-shi-dian-nao-pei-zhi.html)
 </t>
 <t tx="leo.20161115161038.1">&lt;section&gt;
 @others
@@ -356,9 +349,9 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20161115161038.3">## 第十週上課進度
+<t tx="leo.20161115161038.3">## Onshape
 
-##[Onshape week02](https://github.com/40423222/2016fallcadp_bg10/tree/gh-pages/Week02)</t>
+##[Onshape week02](https://github.com/40423222/2016fallcadp_bg10/tree/gh-pages/Onshape%20Description/Week02)</t>
 <t tx="leo.20161115161038.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -368,11 +361,9 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20161115161038.5">##第一週影片
-&lt;iframe src="https://player.vimeo.com/video/187448381" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/187448381"&gt;2016 Fallcadpb W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-</t>
+<t tx="leo.20161115161038.5">##Onshape week 2-1 #1
+&lt;iframe src="https://player.vimeo.com/video/199229103" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199229103"&gt;Onshape week 2-1 #1&lt;/a&gt; from &lt;a href="https://vimeo.com/user57795652"&gt;40423222&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="leo.20161115161038.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -382,8 +373,27 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20161115161038.7">## 心得:第一週上課老師大概講解了一下這學期要做的事，這學期我們會有比較多分組上的作業，因此組員間的配合相當重要，第一週也因為中秋連假而調課。
+<t tx="leo.20161115161038.7">## 心得:總共有20部影片,想要觀看的話就&lt;a href="https://vimeo.com/groups/435553"&gt;點擊這裡&lt;/a&gt;,有什麼問題也歡迎在影片下方留言.
 
+
+</t>
+<t tx="leo.20170113063624.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113063624.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
 <t tx="yen.20161022120729.1">@language python
