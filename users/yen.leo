@@ -25,13 +25,13 @@
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
-<v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
+<v t="amd.20161004095719.1"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20161115160936.1" a="E"><vh>URL</vh>
+<v t="leo.20161115160936.1"><vh>URL</vh>
 <v t="leo.20161115160936.2"><vh>網頁連結</vh></v>
 </v>
-<v t="leo.20170113063624.1"><vh>快捷鍵</vh>
+<v t="leo.20170113063624.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20170113063624.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20161115161038.1"><vh>Onshape description </vh>
@@ -45,8 +45,8 @@
 <v t="leo.20161115161038.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113100808.1"><vh>Onshape description </vh>
-<v t="leo.20170113100808.2" a="E"><vh>Onshape week02</vh>
+<v t="leo.20170113100808.1"><vh>Onshape combination</vh>
+<v t="leo.20170113100808.2" a="E"><vh>Onshape adjuster</vh>
 <v t="leo.20170113100808.3"><vh>網址</vh></v>
 </v>
 <v t="leo.20170113100808.4" a="E"><vh>vimeo</vh>
@@ -56,12 +56,21 @@
 <v t="leo.20170113100808.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113100715.1"><vh>solvespace</vh>
-<v t="leo.20170113100715.2"><vh>投影片快捷鍵</vh></v>
-<v t="leo.20170113101827.1"><vh>投影片快捷鍵</vh></v>
-<v t="leo.20170113101824.1"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20170113111642.1"><vh>solvespace combination</vh>
+<v t="leo.20170113111938.1" a="E"><vh>solvespace description </vh>
+<v t="leo.20170113111938.2"><vh>solvespace</vh></v>
 </v>
-<v t="leo.20170113103345.1" a="E"><vh>@edit Week18.md</vh>
+<v t="leo.20170113100715.1" a="E"><vh>solvespace block</vh>
+<v t="leo.20170113100715.2"><vh>block</vh></v>
+</v>
+<v t="leo.20170113111809.1" a="E"><vh>solvespace bar</vh>
+<v t="leo.20170113101824.1"><vh>bar</vh></v>
+</v>
+<v t="leo.20170113111741.1" a="E"><vh>solvespace</vh>
+<v t="leo.20170113101827.1"><vh>2block_1bar</vh></v>
+</v>
+</v>
+<v t="leo.20170113103345.1"><vh>@edit Week18.md</vh>
 <v t="leo.20170113103345.2"><vh>最後評量</vh></v>
 </v>
 </v>
@@ -427,14 +436,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20170113100715.2"># block
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
+&lt;img src="data/solvespace/block.png"width="800"/&gt;</t>
 <t tx="leo.20170113100808.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -448,9 +450,9 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20170113100808.3">## Onshape
+<t tx="leo.20170113100808.3">##Onshape
 
-##[Onshape week02](https://github.com/40423222/2016fallcadp_bg10/tree/gh-pages/Onshape%20Description/Week02)</t>
+##[Onshape adjuster](https://cad.onshape.com/documents/8d5e0700f1a6fa6379f4c7cf/w/509ab6309e0065d04ce6a4aa/e/a1dab3ef21eedb116fe53770)</t>
 <t tx="leo.20170113100808.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -476,26 +478,12 @@ DEFAULT_DATE = 'fs'</t>
 
 
 </t>
-<t tx="leo.20170113101824.1"># 2block_1bar
+<t tx="leo.20170113101824.1">#bar
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+&lt;img src="data/solvespace/bar.png"width="800"/&gt;</t>
+<t tx="leo.20170113101827.1"># 2block_1bar
 
-</t>
-<t tx="leo.20170113101827.1"># bar
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
+&lt;img src="data/solvespace/2block-1bar.png"width="800"/&gt;</t>
 <t tx="leo.20170113103345.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -505,7 +493,7 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20170113103345.2"># W18評量
+<t tx="leo.20170113103345.2"># 2016Fall電腦補助設計實習課程總結
 
 * 利用箭頭上下前後換頁
 * 按 f 鍵進入全螢幕模式 (full screen)
@@ -515,6 +503,40 @@ DEFAULT_DATE = 'fs'</t>
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
+<t tx="leo.20170113111642.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170113111741.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113111809.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113111938.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113111938.2"># solvespace
+
+solvespace為可攜式的CAD軟體,可釋出原始碼,免費使用等優點</t>
 <t tx="yen.20161022120729.1">@language python
 import os
 import subprocess
