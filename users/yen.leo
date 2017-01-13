@@ -31,7 +31,7 @@
 <v t="leo.20161115160936.1" a="E"><vh>URL</vh>
 <v t="leo.20161115160936.2"><vh>網頁連結</vh></v>
 </v>
-<v t="leo.20170113063624.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20170113063624.1"><vh>快捷鍵</vh>
 <v t="leo.20170113063624.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20161115161038.1"><vh>Onshape description </vh>
@@ -44,6 +44,25 @@
 <v t="leo.20161115161038.6" a="E"><vh>心得</vh>
 <v t="leo.20161115161038.7"><vh>心得</vh></v>
 </v>
+</v>
+<v t="leo.20170113100808.1"><vh>Onshape description </vh>
+<v t="leo.20170113100808.2" a="E"><vh>Onshape week02</vh>
+<v t="leo.20170113100808.3"><vh>網址</vh></v>
+</v>
+<v t="leo.20170113100808.4" a="E"><vh>vimeo</vh>
+<v t="leo.20170113100808.5"><vh>影片連結</vh></v>
+</v>
+<v t="leo.20170113100808.6" a="E"><vh>心得</vh>
+<v t="leo.20170113100808.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170113100715.1"><vh>solvespace</vh>
+<v t="leo.20170113100715.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20170113101827.1"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20170113101824.1"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20170113103345.1" a="E"><vh>@edit Week18.md</vh>
+<v t="leo.20170113103345.2"><vh>最後評量</vh></v>
 </v>
 </v>
 </v>
@@ -65,10 +84,11 @@
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
 <v t="yen.20161022120807.1"><vh>@edit 20161022.md</vh></v>
+<v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
 <v t="leo.20161027150608.1"><vh>@edit mynum_20161027.md</vh></v>
 <v t="leo.20170106095403.1"><vh>@edit 20170106.md</vh></v>
+<v t="leo.20170113104644.1"><vh>@edit 20170113.md</vh></v>
 </v>
 </v>
 </v>
@@ -387,6 +407,105 @@ DEFAULT_DATE = 'fs'</t>
 						
 </t>
 <t tx="leo.20170113063624.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20170113100715.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113100715.2"># block
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20170113100808.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170113100808.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113100808.3">## Onshape
+
+##[Onshape week02](https://github.com/40423222/2016fallcadp_bg10/tree/gh-pages/Onshape%20Description/Week02)</t>
+<t tx="leo.20170113100808.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113100808.5">##Onshape week 2-1 #1
+&lt;iframe src="https://player.vimeo.com/video/199229103" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199229103"&gt;Onshape week 2-1 #1&lt;/a&gt; from &lt;a href="https://vimeo.com/user57795652"&gt;40423222&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170113100808.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113100808.7">## 心得:總共有20部影片,想要觀看的話就&lt;a href="https://vimeo.com/groups/435553"&gt;點擊這裡&lt;/a&gt;,有什麼問題也歡迎在影片下方留言.
+
+
+</t>
+<t tx="leo.20170113101824.1"># 2block_1bar
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20170113101827.1"># bar
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20170113103345.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113103345.2"># W18評量
 
 * 利用箭頭上下前後換頁
 * 按 f 鍵進入全螢幕模式 (full screen)

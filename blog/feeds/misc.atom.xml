@@ -5,6 +5,12 @@
 &lt;p&gt;&lt;img src="./../w7/cadp_w7_fourbar.png" width="600" /&gt;&lt;/p&gt;
 &lt;p&gt;Solvespace 四連桿圖檔:&lt;/p&gt;
 &lt;p&gt;&lt;a href="./../w7/w7_fourbar.slvs"&gt;w7_fourbar.slvs&lt;/a&gt; (請以滑鼠右鍵存檔)&lt;/p&gt;
+&lt;p&gt;參考: &lt;a href="http://mechanicalexpressions.com/explore/kinematics/4-bar-linkage.html"&gt;http://mechanicalexpressions.com/explore/kinematics/4-bar-linkage.html&lt;/a&gt;&lt;/p&gt;</summary><category term="了解軟體"></category></entry><entry><title>W18最後評量</title><link href="./w18zui-hou-ping-liang.html" rel="alternate"></link><published>2017-01-06T10:00:00+08:00</published><updated>2017-01-06T10:00:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-01-06:./w18zui-hou-ping-liang.html</id><summary type="html">&lt;p&gt;&lt;a href="https://github.com/40423222/2016fallcadp_bg10/tree/gh-pages/Onshape%20Description"&gt;Onshpe Description&lt;/a&gt;內有大量的練習 要了解&lt;a href="https://www.onshape.com/"&gt;Onshape&lt;/a&gt;就要做完全部的練習&lt;/p&gt;
+
+
+&lt;p&gt;&lt;img src="./../w7/cadp_w7_fourbar.png" width="600" /&gt;&lt;/p&gt;
+&lt;p&gt;Solvespace 四連桿圖檔:&lt;/p&gt;
+&lt;p&gt;&lt;a href="./../w7/w7_fourbar.slvs"&gt;w7_fourbar.slvs&lt;/a&gt; (請以滑鼠右鍵存檔)&lt;/p&gt;
 &lt;p&gt;參考: &lt;a href="http://mechanicalexpressions.com/explore/kinematics/4-bar-linkage.html"&gt;http://mechanicalexpressions.com/explore/kinematics/4-bar-linkage.html&lt;/a&gt;&lt;/p&gt;</summary><category term="了解軟體"></category></entry><entry><title>2016Fall w7 四連桿機構模擬123</title><link href="./2016fall-w7-si-lian-gan-ji-gou-mo-ni-123.html" rel="alternate"></link><published>2016-10-27T12:00:00+08:00</published><updated>2016-10-27T12:00:00+08:00</updated><author><name>40423222</name></author><id>tag:,2016-10-27:./2016fall-w7-si-lian-gan-ji-gou-mo-ni-123.html</id><summary type="html">&lt;p&gt;已經四連桿各桿尺寸, 當機構繞行一圈後求特定點的座標, 以 Solvespace 進行點座標追蹤存檔, 得到 &lt;a href="./../w7/w7_fourbar.csv"&gt;w7_fourbar.csv&lt;/a&gt;, 根據下圖, 試驗證 Solvespace 機構模擬的資料之正確性.&lt;/p&gt;
 
 
