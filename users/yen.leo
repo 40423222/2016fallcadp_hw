@@ -28,11 +28,11 @@
 <v t="amd.20161004095719.1"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20161115160936.1"><vh>URL</vh>
-<v t="leo.20161115160936.2"><vh>網頁連結</vh></v>
-</v>
 <v t="leo.20170113063624.1" a="E"><vh>快捷鍵</vh>
 <v t="leo.20170113063624.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20161115160936.1"><vh>URL</vh>
+<v t="leo.20161115160936.2"><vh>網頁連結</vh></v>
 </v>
 <v t="leo.20161115161038.1"><vh>Onshape description </vh>
 <v t="leo.20161115161038.2" a="E"><vh>Onshape week02</vh>
@@ -45,8 +45,8 @@
 <v t="leo.20161115161038.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113100808.1"><vh>Onshape combination</vh>
-<v t="leo.20170113100808.2" a="E"><vh>Onshape adjuster</vh>
+<v t="leo.20170113100808.1" a="E"><vh>Onshape combination</vh>
+<v t="leo.20170113100808.2" a="E"><vh>頁面</vh>
 <v t="leo.20170113100808.3"><vh>網址</vh></v>
 </v>
 <v t="leo.20170113100808.4" a="E"><vh>vimeo</vh>
@@ -56,7 +56,7 @@
 <v t="leo.20170113100808.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113111642.1"><vh>solvespace combination</vh>
+<v t="leo.20170113111642.1" a="E"><vh>solvespace combination</vh>
 <v t="leo.20170113111938.1" a="E"><vh>solvespace description </vh>
 <v t="leo.20170113111938.2"><vh>solvespace</vh></v>
 </v>
@@ -462,9 +462,9 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20170113100808.5">##Onshape week 2-1 #1
-&lt;iframe src="https://player.vimeo.com/video/199229103" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/199229103"&gt;Onshape week 2-1 #1&lt;/a&gt; from &lt;a href="https://vimeo.com/user57795652"&gt;40423222&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170113100808.5">##Onshape adjuster
+&lt;iframe src="https://player.vimeo.com/video/199946419" width="640" height="345" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/199946419"&gt;Onshape adjuster&lt;/a&gt; from &lt;a href="https://vimeo.com/user57795652"&gt;40423222&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="leo.20170113100808.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -474,7 +474,7 @@ DEFAULT_DATE = 'fs'</t>
 
 						
 </t>
-<t tx="leo.20170113100808.7">## 心得:總共有20部影片,想要觀看的話就&lt;a href="https://vimeo.com/groups/435553"&gt;點擊這裡&lt;/a&gt;,有什麼問題也歡迎在影片下方留言.
+<t tx="leo.20170113100808.7">## 心得:目前就只有這一個影片可觀看(主要說明如何跟組員合作和如何分享給他人觀看),至於製作方法,可能之後會補上(應該吧...),想要觀看的話就&lt;a href="https://vimeo.com/199946419"&gt;點擊這裡&lt;/a&gt;,有什麼問題也歡迎在影片下方留言.
 
 
 </t>
@@ -536,7 +536,7 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20170113111938.2"># solvespace
 
-solvespace為可攜式的CAD軟體,可釋出原始碼,免費使用等優點</t>
+solvespace為可攜式的CAD軟體,可釋出原始碼</t>
 <t tx="yen.20161022120729.1">@language python
 import os
 import subprocess
