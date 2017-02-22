@@ -28,7 +28,7 @@
 <v t="amd.20161004095719.1"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20170113063624.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20170113063624.1"><vh>快捷鍵</vh>
 <v t="leo.20170113063624.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20161115160936.1"><vh>URL</vh>
@@ -45,7 +45,7 @@
 <v t="leo.20161115161038.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113100808.1" a="E"><vh>Onshape combination</vh>
+<v t="leo.20170113100808.1"><vh>Onshape combination</vh>
 <v t="leo.20170113100808.2" a="E"><vh>頁面</vh>
 <v t="leo.20170113100808.3"><vh>網址</vh></v>
 </v>
@@ -56,7 +56,7 @@
 <v t="leo.20170113100808.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113111642.1" a="E"><vh>solvespace combination</vh>
+<v t="leo.20170113111642.1"><vh>solvespace combination</vh>
 <v t="leo.20170113111938.1" a="E"><vh>solvespace description </vh>
 <v t="leo.20170113111938.2"><vh>solvespace</vh></v>
 </v>
@@ -72,6 +72,20 @@
 </v>
 <v t="leo.20170113103345.1"><vh>@edit Week18.md</vh>
 <v t="leo.20170113103345.2"><vh>最後評量</vh></v>
+</v>
+<v t="leo.20170222110757.1" a="E"><vh>solvespace combination</vh>
+<v t="leo.20170222110757.2" a="E"><vh>solvespace description </vh>
+<v t="leo.20170222110757.3"><vh>solvespace</vh></v>
+</v>
+<v t="leo.20170222110757.4" a="E"><vh>solvespace block</vh>
+<v t="leo.20170222110757.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170222114344.1" a="E"><vh>solvespace</vh>
+<v t="leo.20170222114344.2"><vh>ip位址搜尋</vh></v>
+</v>
+<v t="leo.20170222114431.1" a="E"><vh>solvespace</vh>
+<v t="leo.20170222114431.2"><vh>下載四/八連桿機構，用vrep開啟測試</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -537,6 +551,65 @@ DEFAULT_DATE = 'fs'</t>
 <t tx="leo.20170113111938.2"># solvespace
 
 solvespace為可攜式的CAD軟體,可釋出原始碼</t>
+<t tx="leo.20170222110757.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170222110757.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170222110757.3"># solvespace
+
+我們未來將要製作jansen_8link
+
+&lt;img src="data/jansen_8link.png" width="600" /&gt;
+
+
+</t>
+<t tx="leo.20170222110757.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170222110757.5"># 內容
+
+今天的內容是利用stunnel作為https的通道去data/stunnel/config設定stunnel.conf，並修正成自己電腦的ip位址</t>
+<t tx="leo.20170222114344.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170222114344.2">#ip位址搜尋
+
+用ipconfig/all在cmd中執行，找出ip位址，打開scite拉到最下面把htts的accept改掉→改成自己的ip位址→設定→變更proxy→LAN設定→proxy伺服器的進階→不要為開頭為下列項目的位址使用proxy伺服器中輸入自己電腦ip位址，並儲存之後把ip位址輸入到網頁上(可能會顯示不安全的連線)，後面再加上/2017springvcp_hw/index</t>
+<t tx="leo.20170222114431.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170222114431.2"># 下載四/八連桿機構，用vrep開啟測試
+
+下載點：https://github.com/mdecourse/2017springcd/tree/gh-pages/data
+fourbar_eightbar_solvespace_vrep.7z 
+onelink_vrep_remoteapi_pos_vel.7z</t>
 <t tx="yen.20161022120729.1">@language python
 import os
 import subprocess
